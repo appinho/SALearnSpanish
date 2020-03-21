@@ -15,7 +15,7 @@ https://www.spanishdict.com/guide/subject-pronouns-in-spanish
     * -ar
     * -ir
     * -er
-  2 Irregular
+  2 Irregular  
 3 Objects (m/f)
   1 Food
   2 Body
