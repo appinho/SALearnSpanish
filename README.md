@@ -11,11 +11,11 @@ https://www.spanishdict.com/guide/subject-pronouns-in-spanish
     * vosotros/vosotras
     * ellos/ellas
 2. Verbs:
-  1. Regular
-    * -ar
-    * -ir
-    * -er
-  2. Irregular  
+ 1. Regular
+  * -ar
+  * -ir
+  * -er
+ 2. Irregular  
 3. Objects (m/f)
   1. Food
   2. Body
