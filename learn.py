@@ -12,14 +12,14 @@ def main():
     try:
         while True:
             index = randint(0, len(vocabs) - 1)
-            random_rating = randint(1, 4)
+            random_rating = randint(1, 6)
             vocab = vocabs[index]
             rating = int(vocab['Rating'])
             if rating < random_rating:
                 ask_vocab(vocab)
                 # print(rating, "->", vocab['Rating'])
     except KeyboardInterrupt:
-        with open("new_" + csv_filename, 'w') as csvfile:
+        with open(csv_filename, 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             for vocab in vocabs:

@@ -1,6 +1,6 @@
 import numpy as np
 
-language = 'Spanish'
+language = 'German'
 fieldnames = ['Index', language, 'English', 'Rating', 'Major', 'Minor', 'Gender', 'Quantity']
 csv_filename = 'vocabs.csv'
 
