@@ -2,20 +2,12 @@
 
 ## How to sort words from a foreign language
 https://www.spanishdict.com/guide/subject-pronouns-in-spanish  
+
 1. Pronouns (m/f)
-  * Subject:
-    * yo
-    * tu
-    * el/ella
-    * nosotros/nosotras
-    * vosotros/vosotras
-    * ellos/ellas
+  1. Subject:
 2. Verbs:
- 1. Regular
-  * -ar
-  * -ir
-  * -er
- 2. Irregular  
+  1. Regular
+  2. Irregular  
 3. Objects (m/f)
   1. Food
   2. Body
@@ -40,6 +32,7 @@ https://www.spanishdict.com/guide
  
 https://1000mostcommonwords.com/1000-most-common-spanish-words/  
 https://www.spanishdict.com/lists/506025/beginner  
+
 ## Sentence structure
 
 S + V + O
