@@ -3,28 +3,35 @@
 ## How to sort words from a foreign language
 https://www.spanishdict.com/guide/subject-pronouns-in-spanish  
 
-1. Pronouns (m/f)
-  1. Subject:
+1. Pronouns (m/f):
+  1. Person: Yo
+  2. Possessive: su
+  3. Article: la
 2. Verbs:
-  1. Regular
-  2. Irregular  
-3. Objects (m/f)
-  1. Food
-  2. Body
-  3. Places
-  4. Nature
-  5. Animal
-  6. Travel & Navigation
-  7. At home
-  8. Career
-  9. Education
-  10. Numbers
-  11. Sport
+  1. Regular: necesitar
+  2. Irregular: tener
+3. Objects (m/f):
+  1. Food: fresa
+  2. Body: mano
+  3. Places: norte
+  4. Nature: animal
+  5. Travel: avion
+  6. Home: bano
+  7. Career: dinero
+  8. Education: libro
+  9. Action: futbol
+  10. Time: tiempo
+  11. Misc: 
 4. Adjectives
-  1. Descriptive
-  2. Feeling
-5. Adverbs
-
+  1. Taste: picante
+  2. Size: grande
+  3. Weather: caliente
+  4. Numbers: dos
+  5. Place: derecho
+  6. Feeling: alegre
+  7. Misc: asi
+5. Adverbs: despacio
+6. Conjunction
 
 https://www.spanishdict.com/guide
 

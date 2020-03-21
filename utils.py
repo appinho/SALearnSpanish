@@ -9,7 +9,7 @@ categories = np.array([
 	["Verb", ["Regular", "Irregular"], False],
 	["Object", ["Food", "Body", "Places", "Nature", "Travel",
 	"Home", "Career", "Education", "Action", "Time", "Misc"], True],
-	["Adjective", ["Taste", "Size", "Weather", "Numbers", "Place", "Misc"], False],
+	["Adjective", ["Taste", "Size", "Weather", "Numbers", "Place", "Feeling", "Misc"], False],
 	["Adverb", [], False],
 	["Conjunction", [], False]
 ])
