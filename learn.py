@@ -12,7 +12,7 @@ def main():
     try:
         while True:
             index = randint(0, len(vocabs) - 1)
-            random_rating = randint(1, 6)
+            random_rating = randint(1, 4)
             vocab = vocabs[index]
             rating = int(vocab['Rating'])
             if rating < random_rating:
