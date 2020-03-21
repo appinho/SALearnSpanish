@@ -1,9 +1,15 @@
 # SALearnSpanish
 
 ## How to sort words from a foreign language
-
+https://www.spanishdict.com/guide/subject-pronouns-in-spanish  
 * Pronouns:
-  Subject: yo, tu, el, ella, nosotros, vosotros, ellos https://www.spanishdict.com/guide/subject-pronouns-in-spanish
+  * Subject:
+    * yo
+    * tu
+    * el/ella
+    * nosotros/nosotras
+    * vosotros/vosotras
+    * ellos/ellas
   male vs female
 * Verbs:
   * Regular
@@ -33,9 +39,9 @@
 https://www.spanishdict.com/guide
 
 ## Vocabulary
-
-https://1000mostcommonwords.com/1000-most-common-spanish-words/
-
+ 
+https://1000mostcommonwords.com/1000-most-common-spanish-words/  
+https://www.spanishdict.com/lists/506025/beginner  
 ## Sentence structure
 
 S + V + O
