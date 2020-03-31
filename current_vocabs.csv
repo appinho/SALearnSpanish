@@ -1,0 +1,1096 @@
+Index,Spanish,English,Rating,Major,Minor,Gender,Quantity
+1,como,as,5,6,,,
+2,yo,I,5,1,1,3,1
+3,su,his,4,1,2,1,1
+4,que,that,4,1,6,,
+5,él,he,4,1,1,1,1
+6,era,was,4,2,2,,
+7,para,for,4,6,,,
+8,en,on,4,6,,,
+9,son,are,4,2,2,,
+10,con,with,4,6,,,
+11,ellos,they,4,1,1,1,2
+12,ser,be,4,2,2,,
+13,en,at,4,6,,,
+14,uno,one,4,4,4,,
+15,tener,have,4,2,2,,
+16,este,this,4,1,2,1,1
+17,desde,from,4,6,,,
+18,por,by,4,6,,,
+19,caliente,hot,4,4,3,,
+20,palabra,word,4,3,8,2,1
+21,pero,but,4,6,,,
+22,qué,what,4,7,5,,
+23,algunos,some,4,3,10,1,2
+24,es,is,4,2,2,,
+25,lo,it,4,1,1,3,1
+26,usted,you,4,1,1,3,1
+27,o,or,4,6,,,
+28,tenido,had,4,2,2,,
+29,la,the,4,1,3,2,1
+30,de,of,4,6,,,
+31,a,to,4,6,,,
+32,y,and,4,6,,,
+33,un,a,4,1,3,1,1
+34,en,in,4,6,,,
+35,nos,we,4,1,1,3,2
+36,lata,can,4,3,11,2,1
+37,fuera,out,4,5,,,
+38,otros,other,4,1,2,1,2
+39,eran,were,4,2,2,,
+40,cuál,which,4,7,5,,
+41,hacer,do,4,2,2,,
+42,su,their,4,1,2,3,2
+43,tiempo,time,4,3,10,1,1
+44,si,if,4,6,,,
+45,lo hará,will,4,2,2,,
+46,cómo,how,4,7,5,,
+47,dicho,said,4,2,2,,
+48,un,an,4,1,3,1,1
+49,cada,each,4,4,4,,
+50,decir,tell,4,2,2,,
+51,hace,does,4,2,2,,
+52,conjunto,set,4,3,11,1,1
+53,tres,three,4,4,4,,
+54,querer,want,4,2,2,,
+55,aire,air,4,3,4,1,1
+56,así,well,4,4,8,,
+57,también,also,4,6,,,
+58,jugar,play,4,2,2,,
+59,pequeño,small,4,4,2,,
+60,fin,end,4,3,10,1,1
+61,poner,put,4,2,2,,
+62,casa,home,4,3,6,2,1
+63,leer,read,4,2,2,,
+64,mano,hand,4,3,2,1,1
+65,puerto,port,4,3,3,1,1
+66,grande,large,4,4,2,,
+67,deletrear,spell,4,2,1,,
+68,añadir,to add,4,2,1,,
+69,incluso,even,4,5,,,
+70,tierra,land,4,3,3,2,1
+71,aquí,here,4,4,5,,
+72,debe,must,4,2,1,,
+73,grande,big,4,4,2,,
+74,alto,high,4,4,5,,
+75,tal,such,4,4,4,,
+76,seguir,follow,4,2,2,,
+77,acto,act,4,3,9,1,1
+78,por qué,why,4,7,5,,
+79,preguntar,ask,4,2,1,,
+80,hombres,men,4,1,1,1,2
+81,cambio,change,4,3,11,1,1
+82,se fue,went,4,2,2,,
+83,luz,light,4,3,4,2,1
+84,tipo,kind,4,3,11,1,1
+85,fuera,off,4,5,,,
+86,necesitará,need,4,2,1,,
+87,casa,house,4,3,6,2,1
+88,imagen,picture,4,3,5,2,1
+89,tratar,try,4,2,1,,
+90,nosotros,we,4,1,1,1,2
+91,de nuevo,again,4,5,,,
+92,animal,animal,4,3,4,1,1
+93,punto,point,4,3,3,1,1
+94,madre,mother,4,1,1,2,1
+95,mundo,world,4,3,3,1,1
+96,cerca,near,4,5,,,
+97,construir,build,4,2,2,,
+98,auto,self,4,1,1,3,1
+99,tierra,earth,4,3,3,2,1
+100,padre,father,4,1,1,1,1
+101,cualquier,any,4,4,4,,
+102,nuevo,new,4,4,7,,
+103,trabajo,work,4,3,7,1,1
+104,parte,part,4,3,11,2,1
+105,tomar,take,4,2,1,,
+106,conseguir,get,4,2,2,,
+107,lugar,place,4,3,3,1,1
+108,hecho,made,4,2,2,,
+109,vivir,live,4,2,1,,
+110,donde,where,4,7,5,,
+111,después,after,4,6,,,
+112,espalda,back,4,3,2,2,1
+113,poco,little,4,4,2,,
+114,sólo,only,4,5,,,
+115,ronda,round,4,3,9,2,1
+116,hombre,man,4,1,1,1,1
+117,año,year,4,3,10,1,1
+118,venido,came,4,2,2,,
+119,mostrar,show,4,2,1,,
+120,cada,every,4,4,4,,
+121,buena,good,4,4,6,,
+122,me,me,4,1,1,3,1
+123,dar,give,4,2,2,,
+124,nuestro,our,4,1,2,3,2
+125,bajo,under,4,6,,,
+126,nombre,name,4,3,2,1,1
+127,muy,very,4,5,,,
+128,a través de,through,4,6,,,
+129,sólo,just,4,5,,,
+130,forma,form,4,3,2,2,1
+131,frase,sentence,4,3,8,2,1
+132,gran,great,4,4,6,,
+133,pensar,think,4,2,2,,
+134,decir,say,4,2,2,,
+135,ayudar,help,4,2,1,,
+136,bajo,low,4,4,2,,
+137,línea,line,4,3,2,2,1
+138,ser distinto,differ,4,2,2,,
+139,a su vez,in turn,4,5,,,
+140,causa,cause,4,3,9,2,1
+141,mucho,much,4,4,2,,
+142,significará,mean,4,2,2,,
+143,antes,before,4,4,7,,
+144,movimiento,move,4,3,9,1,1
+145,derecho,right,4,4,5,,
+146,niño,boy,4,1,1,1,1
+147,viejo,old,4,4,7,,
+148,demasiado,too,4,5,,,
+149,misma,same,4,4,8,,
+150,ella,she,4,1,1,2,1
+151,todo,all,4,4,2,,
+152,hay,there is,4,2,1,,
+153,cuando,when,4,7,5,,
+154,hasta,up to/until,4,6,,,
+155,usar,use,4,2,1,,
+156,su,your,4,1,2,3,1
+157,camino,way,4,3,3,1,1
+158,acerca,about,4,6,,,
+159,muchos,many,4,4,2,,
+160,entonces,then,4,6,,,
+161,ellos,them,4,1,1,1,2
+162,escribir,write,4,2,1,,
+163,haría,would,4,2,2,,
+164,como,like,4,6,,,
+165,así,so,4,5,,,
+166,éstos,these,4,1,2,1,2
+167,su,her,4,1,2,2,1
+168,largo,long,4,4,2,,
+169,hacer,make,4,2,2,,
+170,cosa,thing,4,3,11,2,1
+171,ver,see,4,2,2,,
+172,él,him,4,1,2,1,1
+173,dos,two,4,4,4,,
+174,tiene,has,4,2,2,,
+175,buscar,look,4,2,1,,
+176,más,more,4,4,2,,
+177,día,day,4,3,10,2,1
+178,podía,could,4,2,2,,
+179,ir,go,4,2,2,,
+180,venir,come,4,2,2,,
+181,hizo,he/she did,4,2,2,,
+182,número,number,4,3,8,1,1
+183,sonar,sound,4,2,2,,
+184,no,no,4,7,6,,
+185,más,most,4,4,4,,
+186,personas,people,4,1,1,3,2
+187,mi,my,4,1,2,3,1
+188,sobre,over,4,6,,,
+189,saber,know,4,2,2,,
+190,agua,water,4,3,1,2,1
+191,que,than,4,6,,,
+192,llamada,call,4,3,9,2,1
+193,primero,first,4,4,4,,
+194,quién,who,4,7,5,,
+195,poder,may,4,2,2,,
+196,abajo,down,4,4,5,,
+197,lado,side,4,3,3,1,1
+198,estado,been,4,2,2,,
+199,ahora,now,4,4,7,,
+200,encontrar,find,4,2,2,,
+201,cabeza,head,4,3,2,2,1
+202,estar de pie,to stand,4,2,2,,
+203,propio,own,4,4,5,,
+204,página,page,4,3,8,2,1
+205,deber,should,4,2,2,,
+206,país,country,4,3,5,1,1
+207,encontrado,found,4,2,2,,
+208,respuesta,answer,4,3,8,2,1
+209,escuela,school,4,3,8,2,1
+210,crecer,grow,4,2,2,,
+211,estudiar,study,4,2,1,,
+212,todavía,still,4,5,,,
+213,aprender,learn,4,2,1,,
+214,planta,plant,4,3,4,2,1
+215,cubierta,cover,4,3,6,2,1
+216,alimentos,food,4,3,1,1,2
+217,sol,sun,4,3,4,1,1
+218,cuatro,four,4,4,4,,
+219,entre,between,4,6,,,
+220,estado,state,4,3,5,1,1
+221,mantener,keep,4,2,2,,
+222,ojo,eye,4,3,2,1,1
+223,nunca,never,4,5,,,
+224,último,last,4,4,4,,
+225,dejar,let,4,2,1,,
+226,pensado,thought,4,3,2,1,1
+227,ciudad,city,4,3,5,2,1
+228,árbol,tree,4,3,4,1,1
+229,cruzar,cross,4,2,1,,
+230,granja,farm,4,3,4,2,1
+231,duro,hard,4,4,2,,
+232,inicio,start,4,3,10,1,1
+233,podría,I might,4,2,2,,
+234,historia,story,4,3,10,2,1
+235,sierra,saw,4,3,6,2,1
+236,lejos,far,4,4,2,,
+237,mar,sea,4,3,4,1,1
+238,dibujar,draw,4,2,1,,
+239,izquierda,left,4,4,5,,
+240,tarde,late,4,4,7,,
+241,correr,to run,4,2,1,,
+242,no,don’t,4,6,,,
+243,mientras,while,4,6,,,
+244,prensa,press,4,3,7,2,1
+245,cerrar,close,4,2,2,,
+246,noche,night,4,3,10,2,1
+247,real,real,4,4,6,,
+248,vida,life,4,3,2,2,1
+249,pocos,few,4,4,4,,
+250,el norte,north,4,3,5,1,1
+251,libro,book,4,3,8,1,1
+252,llevar,carry/take/wear,4,2,1,,
+253,tomó,took,4,2,2,,
+254,ciencia,science,4,3,8,2,1
+255,comer,eat,4,2,1,,
+256,habitación,room,4,3,6,2,1
+257,amigo,friend,4,1,1,1,1
+258,empezar,begin,4,2,2,,
+259,idea,idea,4,3,2,2,1
+260,pez,fish,4,3,4,1,1
+261,montaña,mountain,4,3,4,2,1
+262,parar,to stop,4,2,1,,
+263,una vez,once,4,4,4,,
+264,base,base,4,3,3,2,1
+265,escuchar,hear,4,2,1,,
+266,caballo,horse,4,3,4,1,1
+267,cortar,cut,4,2,1,,
+268,seguro,sure,4,4,6,,
+269,ver,watch,4,2,2,,
+270,color,color,4,3,8,1,1
+271,cara,face,4,3,2,2,1
+272,madera,wood,4,3,4,2,1
+273,principal,main,4,4,5,,
+274,abierta,open,4,4,2,,
+275,parecer,seem,4,2,2,,
+276,juntos,together,4,4,6,,
+277,próximo,next,4,4,5,,
+278,blanco,white,4,4,2,,
+279,niños,children,4,1,1,3,2
+280,comenzar,begin,4,2,2,,
+281,conseguido,got,4,2,2,,
+282,caminar,walk,4,2,1,,
+283,ejemplo,example,4,3,8,1,1
+284,vista,sight,4,3,5,2,1
+285,papel,paper,4,3,8,1,1
+286,grupo,group,4,3,7,1,1
+287,siempre,always,4,5,,,
+288,música,music,4,3,8,2,1
+289,esos,those,4,1,3,1,2
+290,ambos,both,4,4,4,,
+291,marca,mark,4,3,11,2,1
+292,a menudo,often,4,5,,,
+293,carta,letter,4,3,7,2,1
+294,hasta,until,4,6,,,
+295,milla,mile,4,3,5,2,1
+296,río,river,4,3,4,1,1
+297,coche,car,4,3,5,1,1
+298,pies,feet,4,3,2,1,2
+299,cuidado,care,4,3,9,1,1
+300,segundo,second,4,4,4,,
+301,suficiente,enough,4,4,2,,
+302,llano,plain,4,4,2,,
+303,chica,girl,4,1,1,2,1
+304,habitual,usual,4,4,6,,
+305,joven,young,4,4,7,,
+306,listo,ready,4,4,7,,
+307,por encima de,over,4,6,,,
+308,nunca,ever,4,5,,,
+309,rojo,red,4,4,2,,
+310,lista,list,4,3,8,2,1
+311,aunque,though,4,6,,,
+312,sentir,feel,4,2,2,,
+313,conversación,talk,4,3,7,2,1
+314,pájaro,bird,4,3,4,1,1
+315,pronto,soon,4,5,,,
+316,cuerpo,body,4,3,2,1,1
+317,perro,dog,4,3,4,1,1
+318,familia,family,4,1,1,3,1
+319,directa,direct,4,4,5,,
+320,plantear,suggest,4,2,1,,
+321,dejar,leave,4,2,1,,
+322,canción,song,4,3,9,2,1
+323,medir,measure,4,2,2,,
+324,puerta,door,4,3,6,2,1
+325,producto,product,4,3,7,1,1
+326,negro,black,4,4,2,,
+327,corto,short,4,4,2,,
+328,numeral,numeral,4,4,4,,
+329,clase,class,4,3,8,2,1
+330,viento,wind,4,3,4,1,1
+331,pregunta,question,4,3,8,2,1
+332,suceder,happen,4,2,1,,
+333,completo,complete,4,4,4,,
+334,barco,ship,4,3,5,1,1
+335,zona,area,4,3,3,2,1
+336,medio,half,4,4,4,,
+337,roca,rock,4,3,4,2,1
+338,orden,order,4,3,9,2,1
+339,fuego,fire,4,3,4,1,1
+340,el sur,south,4,3,5,1,1
+341,problema,problem,4,3,8,2,1
+342,pieza,piece,4,3,2,2,1
+343,dicho,told,4,2,2,,
+344,conocer,to know sb.,4,2,1,,
+345,pasar,pass,4,2,1,,
+346,desde,since,4,6,,,
+347,cima,top,4,3,3,2,1
+348,todo,whole,4,4,4,,
+349,rey,king,4,1,1,1,1
+350,calle,street,4,3,5,2,1
+351,centimetro,centimeter,4,3,5,1,1
+352,multiplicar,multiply,4,2,1,,
+353,nada,nothing,4,1,1,3,1
+354,curso,course,4,3,5,1,1
+355,quedarse,stay,4,2,1,,
+356,rueda,wheel,4,3,5,2,1
+357,completo,full,4,4,2,,
+358,fuerza,force,4,3,4,2,1
+359,azul,blue,4,4,2,,
+360,objeto,object,4,3,11,1,1
+361,decidir,decide,4,2,1,,
+362,superficie,surface,4,3,2,2,1
+363,profunda,deep,4,4,5,,
+364,luna,moon,4,3,4,2,1
+365,isla,island,4,3,5,2,1
+366,pie,foot,4,3,2,1,1
+367,sistema,system,4,3,7,2,1
+368,ocupado,busy,4,4,7,,
+369,prueba,test,4,3,8,2,1
+370,registro,record,4,3,8,1,1
+371,barco,boat,4,3,5,1,1
+372,común,common,4,4,7,,
+373,oro,gold,4,3,4,1,1
+374,posible,possible,4,4,6,,
+375,plano,plane,4,3,2,1,1
+376,en lugar de eso,instead,4,5,,,
+377,seco,dry,4,4,3,,
+378,maravilla,wonder,4,3,4,2,1
+379,risa,laugh,4,3,9,2,1
+380,mil,thousand,4,4,4,,
+381,hace,ago,4,5,,,
+382,corrido,ran,4,2,2,,
+383,comprobar,check,4,2,1,,
+384,juego,game,4,3,9,1,1
+385,forma,shape,4,3,2,2,1
+386,equiparar,equate,4,2,1,,
+387,caliente,hot,4,4,3,,
+388,señorita,miss,4,1,1,2,1
+389,traído,brought,4,2,2,,
+390,calor,heat,4,3,4,1,1
+391,nieve,snow,4,3,4,2,1
+392,neumáticos,tire,4,3,5,1,1
+393,traer,bring,4,2,2,,
+394,sí,yes,4,7,6,,
+395,distante,distant,4,4,5,,
+396,llenar,fill,4,2,1,,
+397,al este,east,4,3,5,2,1
+398,pintar,paint,4,2,1,,
+399,idioma,language,4,3,8,2,1
+400,entre,among,4,6,,,
+401,unidad,unit,4,3,2,2,1
+402,potencia,power,4,3,2,2,1
+403,ciudad,town,4,3,5,2,1
+404,fina,thin,4,4,2,,
+405,cierto,certain,4,4,8,,
+406,volar,fly,4,2,2,,
+407,caer,fall,4,2,2,,
+408,conducir,lead,4,2,2,,
+409,grito,cry,4,3,9,1,1
+410,oscuro,dark,4,4,3,,
+411,máquina,machine,4,3,7,2,1
+412,nota,note,4,3,8,2,1
+413,esperar,wait,4,2,1,,
+414,plan,plan,4,3,9,1,1
+415,figura,figure,4,3,2,2,1
+416,estrella,star,4,3,4,2,1
+417,caja,box,4,3,2,2,1
+418,sustantivo,noun,4,3,8,1,1
+419,campo,field,4,3,4,1,1
+420,resto,rest,4,3,9,1,1
+421,correcta,correct,4,4,8,,
+422,capaz,able,4,4,6,,
+423,kilo,kilo,4,3,2,1,1
+424,hecho,done,4,2,2,,
+425,belleza,beauty,4,3,11,2,1
+426,manejar,drive,4,2,1,,
+427,destacar,stand out,4,2,1,,
+428,contener,contain,4,2,2,,
+429,delante,front,4,3,2,2,1
+430,enseñar,teach,4,2,1,,
+431,semana,week,4,3,10,2,1
+432,último,final,4,4,4,,
+433,dio,gave,4,2,2,,
+434,verde,green,4,4,2,,
+435,oh,oh,4,6,,,
+436,rápido,quick,4,4,7,,
+437,desarrollar,develop,4,2,1,,
+438,océano,ocean,4,3,4,1,1
+439,calido,warm,4,4,3,,
+440,libre,free,4,4,6,,
+441,minuto,minute,4,3,10,1,1
+442,fuerte,strong,4,4,6,,
+443,especial,special,4,4,8,,
+444,mente,mind,4,3,2,2,1
+445,detrás,behind,4,6,,,
+446,claro,clear,4,4,3,,
+447,cola,tail,4,3,2,2,1
+448,producir,produce,4,2,2,,
+449,hecho,fact,4,3,7,1,1
+450,espacio,space,4,3,3,1,1
+451,oír,to hear,4,2,2,,
+452,mejor,best,4,4,1,,
+453,hora,hour,4,3,10,2,1
+454,mejor,better,4,4,1,,
+455,verdadero,true,4,4,6,,
+456,durante,during,4,6,,,
+457,cien,hundred,4,4,4,,
+458,cinco,five,4,4,4,,
+459,recordar,remember,4,2,1,,
+460,paso,step,4,3,5,1,1
+461,temprana,early,4,5,,,
+462,agarrar,hold,4,2,1,,
+463,oeste,west,4,3,5,2,1
+464,suelo,ground,4,3,4,1,1
+465,interés,interest,4,3,11,1,1
+466,llegar,arrive/come/reach,4,2,1,,
+467,rápido,fast,4,4,7,,
+468,verbo,verb,4,3,8,1,1
+469,cantar,sing,4,2,1,,
+470,escuchar,to listen to,4,2,1,,
+471,seis,six,4,4,4,,
+472,mesa,table,4,3,6,2,1
+473,viajes,travel,4,3,5,1,1
+474,menos,less,4,4,2,,
+475,mañana,morning,4,3,10,2,1
+476,diez,ten,4,4,4,,
+477,sencilla,simple,4,4,6,,
+478,varios,several,4,1,1,3,2
+479,vocal,vowel,4,3,8,1,1
+480,hacia,toward,4,6,,,
+481,guerra,war,4,3,9,2,1
+482,poner,to lay,4,2,2,,
+483,contra,against,4,6,,,
+484,patrón,pattern,4,3,7,1,1
+485,lenta,slow,4,4,7,,
+486,centro,center,4,3,3,1,1
+487,amar,love,4,3,2,1,1
+488,persona,person,4,1,1,3,1
+489,dinero,money,4,3,7,1,1
+490,servir,serve,4,2,2,,
+491,aparecer,appear,4,2,1,,
+492,carretera,road,4,3,5,2,1
+493,mapa,map,4,3,5,2,1
+494,lluvia,rain,4,3,4,2,1
+495,regla,rule,4,3,8,2,1
+496,gobernar,to govern,4,2,2,,
+497,jalar,pull,4,2,1,,
+498,frío,cold,4,4,3,,
+499,aviso,notice,4,3,7,1,1
+500,voz,voice,4,3,2,2,1
+501,energía,energy,4,3,4,2,1
+502,caza,hunt,4,3,4,2,1
+503,probable,probable,4,4,6,,
+504,cama,bed,4,3,6,2,1
+505,hermano,brother,4,1,1,1,1
+506,huevo,egg,4,3,1,1,1
+507,paseo,walk/ride,4,3,5,1,1
+508,celular,cell,4,3,8,1,1
+509,creer,believe,4,2,2,,
+510,quizás,perhaps,4,6,,,
+511,recoger,pick up,4,2,1,,
+512,repentina,sudden,4,4,7,,
+513,contar,count,4,2,1,,
+514,plaza,square,4,3,3,2,1
+515,razón,reason,4,3,7,1,1
+516,longitud,length,4,3,2,2,1
+517,representar,represent,4,2,1,,
+518,arte,art,4,3,8,1,1
+519,sujeto,subject,4,3,8,1,1
+520,región,region,4,3,3,2,1
+521,tamaño,size,4,3,2,1,1
+522,variar,to vary,4,2,1,,
+523,resolver,settle,4,2,1,,
+524,hablar,speak,4,2,1,,
+525,peso,weight,4,3,2,1,1
+526,general,general,4,4,8,,
+527,hielo,ice,4,3,4,1,1
+528,materia,mass,4,3,2,2,1
+529,círculo,circle,4,3,2,1,1
+530,par,pair,4,3,11,1,1
+531,incluir,include,4,2,2,,
+532,dividir,divide,4,2,1,,
+533,sílaba,syllable,4,3,8,2,1
+534,sentido,felt,4,2,2,,
+535,gran,grand,4,4,2,,
+536,bola,ball,4,3,9,2,1
+537,aún,yet,4,6,,,
+538,ola,wave,4,3,4,2,1
+539,caer,drop,4,2,2,,
+540,corazón,heart,4,3,2,1,1
+541,ancho,width,4,3,2,1,1
+542,presente,present,4,3,10,2,1
+543,pesada,heavy,4,4,2,,
+544,danza,dance,4,3,9,2,1
+545,motor,engine,4,3,5,1,1
+546,posición,position,4,3,3,2,1
+547,brazo,arm,4,3,2,1,1
+548,amplio,wide,4,4,2,,
+549,vela,sail,4,3,5,2,1
+550,material,material,4,3,2,1,1
+551,fracción,fraction,4,3,8,2,1
+552,bosque,forest,4,3,4,1,1
+553,sentarse,sit,4,2,2,,
+554,carrera,race,4,3,9,2,1
+555,ventana,window,4,3,6,2,1
+556,tienda,store,4,3,3,2,1
+557,verano,summer,4,3,10,1,1
+558,tren,train,4,3,5,1,1
+559,sueño,dream,4,3,2,1,1
+560,demostrar,to prove,4,2,1,,
+561,solitario,lone,4,4,6,,
+562,pierna,leg,4,3,2,2,1
+563,ejercicio,exercise,4,3,9,1,1
+564,pared,wall,4,3,6,1,1
+565,capturas,the catches,4,3,9,2,2
+566,montar,mount,4,2,1,,
+567,desear,to wish,4,2,1,,
+568,cielo,sky,4,3,4,1,1
+569,bordo,board,4,3,6,1,1
+570,alegría,joy,4,3,2,2,1
+571,invierno,winter,4,3,10,1,1
+572,ayer,yesterday,4,6,,,
+573,escrito,written,4,2,1,,
+574,salvaje,wild,4,4,8,,
+575,instrumento,instrument,4,3,8,1,1
+576,guardar,to keep,4,2,1,,
+577,vidrio/vaso,glass,4,3,1,1,1
+578,hierba,grass,4,3,4,2,1
+579,vaca,cow,4,3,4,2,1
+580,trabajo,job,4,3,7,1,1
+581,borde,edge,4,3,3,1,1
+582,señal,sign,4,3,5,2,1
+583,visitaf,visit,4,2,1,,
+584,pasado,past,4,3,10,1,1
+585,suave,soft,4,4,1,,
+586,diversión,fun,4,3,2,2,1
+587,brillante,bright,4,4,1,,
+588,gas,gas,4,3,2,1,1
+589,tiempo,weather,4,3,4,1,1
+590,mes,month,4,3,10,1,1
+591,millones,million,4,4,4,,
+592,soportar,bear,4,2,1,,
+593,acabar,finish,4,2,1,,
+594,feliz,happy,4,4,6,,
+595,esperanza,hope,4,3,2,2,1
+596,flor,flower,4,3,4,2,1
+597,vestir,to wear,4,2,2,,
+598,extraño,strange,4,4,6,,
+599,ido,gone,4,2,2,,
+600,comercio,trade,4,3,7,1,1
+601,melodía,melody,4,3,8,2,1
+602,viaje,trip,4,3,5,1,1
+603,oficina,office,4,3,7,2,1
+604,recibir,receive,4,2,1,,
+605,fila,row,4,3,3,2,1
+606,boca,mouth,4,3,2,2,1
+607,exacta,exact,4,4,7,,
+608,símbolo,symbol,4,3,11,1,1
+609,morir,die,4,2,2,,
+610,menos,least,4,1,3,3,1
+611,problemas,trouble,4,3,9,1,2
+612,grito,shout,4,3,2,1,1
+613,excepto,except,4,6,,,
+614,escribió,he/she wrote,4,2,2,,
+615,semilla,seed,4,3,4,2,1
+616,tono,tone,4,3,8,1,1
+617,unirse,to join,4,2,1,,
+618,sugerir,suggest,4,2,2,,
+619,limpia,clean,4,4,1,,
+620,rotura,break,4,3,9,2,1
+621,dama,lady,4,1,1,2,1
+622,patio,yard,4,3,3,1,1
+623,aumentar,increase,4,2,1,,
+624,mal,bad,4,4,6,,
+625,golpe,blow/hit,4,3,9,1,1
+626,aceite,oil,4,3,1,1,1
+627,sangre,blood,4,3,2,2,1
+628,tocar,touch,4,2,1,,
+629,creció,grew,4,2,2,,
+630,céntimo,cent,4,3,7,1,1
+631,mezclar,mix,4,2,1,,
+632,equipo,team,4,3,7,1,1
+633,alambre,wire,4,3,6,1,1
+634,costo,cost,4,3,7,1,1
+635,perdido,lost,4,4,7,,
+636,marrón,brown,4,4,2,,
+637,desgastar,wear away,4,2,1,,
+638,jardín,garden,4,3,3,1,1
+639,igual,equal,4,4,2,,
+640,enviado,sent,4,2,2,,
+641,elegir,choose,4,2,2,,
+642,caído,fallen,4,2,2,,
+643,encajar,fit,4,2,1,,
+644,fluir,flow,4,2,2,,
+645,justo,fair,4,4,1,,
+646,banco,bank,4,3,3,1,1
+647,recoger,collect,4,2,2,,
+648,guardar,save,4,2,1,,
+649,control,control,4,3,9,1,1
+650,decimal,decimal,4,4,4,,
+651,oreja,ear,4,3,2,2,1
+652,(de)más/otro,else,4,5,,,
+653,bastante,enough/quite,4,4,4,,
+654,romper,break,4,2,2,,
+655,caso,case,4,3,7,1,1
+656,medio,middle,4,4,2,,
+657,matar,kill,4,2,1,,
+658,hijo,son,4,1,1,1,1
+659,lago,lake,4,3,4,1,1
+660,momento,moment,4,3,10,1,1
+661,escala,scale,4,3,2,2,1
+662,fuerte,loud,4,4,1,,
+663,primavera,spring,4,3,10,2,1
+664,observar,observe,4,2,1,,
+665,niño,child,4,1,1,3,1
+666,recta,straight,4,4,5,,
+667,consonante,consonant,4,3,8,2,1
+668,nación,nation,4,3,5,2,1
+669,diccionario,dictionary,4,3,8,1,1
+670,leche,milk,4,3,1,2,2
+671,velocidad,speed,4,3,5,2,1
+672,método,method,4,3,7,1,1
+673,órgano,organ,4,3,2,1,1
+674,pagar,to pay,4,2,1,,
+675,edad,age,4,3,10,2,1
+676,sección,section,4,3,3,2,1
+677,vestido,dress,4,3,2,1,1
+678,nube,cloud,4,3,4,2,1
+679,sorpresa,surprise,4,3,9,2,1
+680,tranquila,quiet,4,4,1,,
+681,piedra,stone,4,3,4,2,1
+682,pequeñito,tiny,4,4,2,,
+683,ascenso,climb,4,3,9,1,1
+684,fresco,cool,4,4,3,,
+685,diseño,design,4,3,7,1,1
+686,pobre,poor,4,4,6,,
+687,mucho,lot,4,4,4,,
+688,experimento,experiment,4,3,8,1,1
+689,inferior,bottom,4,4,5,,
+690,llave,key,4,3,6,2,1
+691,hierro,iron,4,3,4,1,1
+692,solo,single,4,4,4,,
+693,palo,stick,4,3,4,1,1
+694,plana,flat,4,4,5,,
+695,veinte,twenty,4,4,4,,
+696,piel,skin,4,3,2,2,1
+697,sonrisa,smile,4,3,2,2,1
+698,plegar,fold,4,2,1,,
+699,agujero,hole,4,3,4,1,1
+700,saltar,jump,4,2,1,,
+701,bebé,baby,4,1,1,3,1
+702,ocho,eight,4,4,4,,
+703,pueblo,village,4,3,5,1,1
+704,reunir,meet,4,2,2,,
+705,raíz,root,4,3,4,2,1
+706,comprar,buy,4,2,1,,
+707,aumentar,raise,4,2,1,,
+708,resolver,solve,4,2,2,,
+709,de metal,made of metal,4,4,2,,
+710,si,whether,4,6,,,
+711,empujar,push,4,2,1,,
+712,siete,seven,4,4,4,,
+713,párrafo,paragraph,4,3,8,1,1
+714,tercero,third,4,4,4,,
+715,deberá,shall,4,2,1,,
+716,en espera,on hold,4,7,9,,
+717,pelo,hair,4,3,2,1,1
+718,describir,describe,4,2,1,,
+719,cocinero,cook,4,3,7,1,1
+720,piso,floor,4,3,3,1,1
+721,ya sea,either,4,6,,,
+722,resultado,result,4,3,7,1,1
+723,quemar,burn,4,2,1,,
+724,colina,hill,4,3,4,2,1
+725,seguro,safe,4,4,6,,
+726,gato,cat,4,3,4,1,1
+727,siglo,century,4,3,10,1,1
+728,considerar,consider,4,2,1,,
+729,tipo,type,4,3,11,1,1
+730,ley,law,4,3,7,2,1
+731,poco,bit,4,4,4,,
+732,costa,coast,4,3,4,2,1
+733,copia,copy,4,3,7,2,1
+734,frase,phrase,4,3,8,2,1
+735,silencio,silent,4,4,1,,
+736,de altura,high,4,4,2,,
+737,arena,sand,4,3,4,2,1
+738,suelo,ground,4,3,4,1,1
+739,rollo,roll,4,3,2,1,1
+740,temperatura,temperature,4,3,8,2,1
+741,dedo,finger,4,3,2,1,1
+742,industria,industry,4,3,7,2,1
+743,valor,value,4,3,7,1,1
+744,pelear,to fight,4,2,1,,
+745,mentira,lie,4,3,9,2,1
+746,batir,beat,4,2,1,,
+747,excitar,to excite,4,2,1,,
+748,natural,natural,4,4,1,,
+749,vista,view,4,3,5,2,1
+750,sentido,sense,4,3,2,1,1
+751,capital,capital,4,3,7,2,1
+752,no lo hará,won't do it,4,2,2,,
+753,silla,chair,4,3,6,2,1
+754,peligro,danger,4,3,9,1,1
+755,fruta,fruit,4,3,1,2,1
+756,rica,rich,4,4,6,,
+757,grueso,thick,4,4,2,,
+758,soldado,soldier,4,1,1,1,1
+759,proceso,process,4,3,7,1,1
+760,operar,operate,4,2,1,,
+761,práctica,practice,4,3,7,2,1
+762,separada,separate,4,4,2,,
+763,difícil,difficult,4,4,6,,
+764,médico,doctor,4,3,7,1,1
+765,por favor,please,4,7,3,,
+766,proteger,to protect,4,2,2,,
+767,mediodía,noon,4,3,10,1,1
+768,cultivo,crop,4,3,4,1,1
+769,moderno,modern,4,4,7,,
+770,elemento,element,4,3,4,1,1
+771,golpear,to hit,4,2,1,,
+772,estudiante,student,4,3,8,3,1
+773,esquina,corner,4,3,2,2,1
+774,partido,party,4,3,7,1,1
+775,suministro,supply,4,3,11,1,1
+776,de quién/cuya,whose,4,1,2,3,1
+777,localizar,locate,4,2,1,,
+778,anillo,ring,4,3,2,1,1
+779,carácter,character,4,3,2,1,1
+780,insecto,insect,4,3,4,1,1
+781,capturado,caught,4,2,1,,
+782,período,period,4,3,10,1,1
+783,indicar,indicate,4,2,1,,
+784,radio,radio,4,3,9,1,1
+785,habló,I spoke,4,2,1,,
+786,átomo,atom,4,3,4,1,1
+787,el ser humano,human being,4,1,1,3,1
+788,historia,history,4,3,10,2,1
+789,efecto,effect,4,3,9,1,1
+790,eléctrica,electric,4,4,3,,
+791,esperar,to expect,4,2,1,,
+792,hueso,bone,4,3,2,1,1
+793,ferrocarril,railroad,4,3,5,1,1
+794,imaginar,imagine,4,2,1,,
+795,proporcionar,provide,4,2,1,,
+796,estar de acuerdo,agree,4,2,2,,
+797,por lo tanto,thus,4,6,,,
+798,suave,gentle,4,4,1,,
+799,mujer,woman,4,1,1,2,1
+800,capitán,captain,4,3,7,1,1
+801,adivinar,guess,4,2,1,,
+802,necesario,necessary,4,4,8,,
+803,agudo,sharp,4,4,2,,
+804,ala,wing,4,3,2,1,1
+805,crear,create,4,2,1,,
+806,vecino,neighbor,4,1,1,1,1
+807,lavar,wash,4,2,1,,
+808,bate,bat,4,3,4,1,1
+809,preferir,rather,4,2,1,,
+810,multitud,crowd,4,1,1,2,1
+811,maíz,corn,4,3,1,1,1
+812,comparar,compare,4,2,1,,
+813,poema,poem,4,3,8,2,1
+814,cordel,string,4,3,6,1,1
+815,campana,bell,4,3,11,2,1
+816,depender,to depend,4,2,1,,
+817,carne,meat,4,3,1,2,1
+818,frotar,rub,4,2,1,,
+819,tubo,tube,4,3,2,1,1
+820,famoso,famous,4,4,6,,
+921,dólar,dollar,4,3,7,1,1
+822,corriente,stream,4,3,4,2,1
+823,miedo,fear,4,3,9,1,1
+284,vista,sight,4,3,5,2,1
+825,delgado,thin,4,4,2,,
+826,triángulo,triangle,4,3,2,1,1
+827,planeta,planet,4,3,4,2,1
+828,prisa,hurry,4,3,10,2,1
+829,jefe,chief,4,3,7,1,1
+830,colonia,colony,4,3,5,2,1
+831,reloj,clock,4,3,10,1,1
+832,mina,mine,4,3,4,2,1
+833,empate,draw,4,3,9,1,1
+834,entrar,enter,4,2,1,,
+835,importante,major,4,4,6,,
+836,fresco,fresh,4,4,1,,
+837,búsqueda,search,4,3,9,2,1
+838,enviar,send,4,2,2,,
+839,amarillo,yellow,4,4,1,,
+840,rosa,rose,4,3,4,2,1
+841,permitir,allow,4,2,1,,
+842,imprimir,print,4,2,2,,
+843,muerto,dead,4,4,6,,
+844,lugar,spot,4,3,3,1,1
+845,desierto,desert,4,3,4,1,1
+846,traje,suit,4,3,2,1,1
+847,actual,current,4,4,7,,
+848,ascensor,elevator,4,3,5,1,1
+840,rosa,rose,4,3,4,2,1
+850,llegar,arrive,4,2,1,,
+851,maestro,master,4,3,8,1,1
+852,pista,track,4,3,5,2,1
+853,padres,parents,4,1,1,1,2
+854,orilla,shore,4,3,4,2,1
+855,división,division,4,3,8,2,1
+856,sábana,sheet,4,3,6,2,1
+857,sustancia,substance,4,3,4,2,1
+858,favorecer,to favor,4,2,2,,
+859,conectar,connect,4,2,1,,
+860,mensaje,message,4,3,9,1,1
+861,pasar,spend,4,2,1,,
+862,acorde,chord,4,3,8,1,1
+863,grasa,fat,4,4,1,,
+864,contento,glad,4,4,6,,
+865,original,original,4,4,8,,
+866,compartir,share,4,2,1,,
+867,estación,station,4,3,3,2,1
+868,papá,dad,4,1,1,1,1
+869,pan,bread,4,3,1,1,1
+870,cobrar,to charge for,4,2,1,,
+871,adecuada,appropriate,4,4,6,,
+872,barra,bar,4,3,6,2,1
+873,oferta,offer,4,3,7,2,1
+874,segmento,segment,4,3,8,1,1
+875,esclavo,slave,4,3,7,1,1
+876,pato,duck,4,3,4,1,1
+877,instantáneo,instant,4,4,7,,
+878,mercado,market,4,3,3,1,1
+879,grado,degree,4,3,8,1,1
+880,poblar,populate,4,2,1,,
+881,pollo,chicken,4,3,1,1,1
+882,querido,dear,4,1,1,3,1
+883,enemigo,enemy,4,3,11,1,1
+884,responder,reply,4,2,1,,
+885,bebida,drink,4,3,1,2,1
+886,producirse,occur,4,2,2,,
+887,apoyar,to support,4,2,1,,
+888,discurso,speech,4,3,8,1,1
+889,naturaleza,nature,4,3,4,2,1
+890,alcance,scope,4,3,2,1,1
+891,vapor,steam,4,3,4,1,1
+892,movimiento,motion,4,3,5,1,1
+893,camino,path,4,3,5,1,1
+894,líquido,liquid,4,3,1,1,1
+895,olvidar,to forget,4,2,1,,
+896,significado,meant,4,2,1,,
+897,cociente,quotient,4,3,8,1,1
+898,dientes,teeth,4,3,2,1,2
+899,concha,shell,4,3,4,2,1
+900,cuello,neck,4,3,2,1,1
+901,oxígeno,oxygen,4,3,4,1,1
+902,azúcar,sugar,4,3,1,1,1
+903,muerte,death,4,3,10,2,1
+904,bonito,pretty,4,4,1,,
+905,habilidad,skill,4,3,8,2,1
+906,mujeres,women,4,1,1,2,2
+907,temporada,season,4,3,10,2,1
+908,solución,solution,4,3,8,2,1
+909,imán,magnet,4,3,8,1,1
+910,plata,silver,4,3,4,2,1
+911,Gracias!,Thank you!,4,7,3,,
+912,rama,branch,4,3,4,2,1
+913,partido,match,4,3,9,1,1
+914,sufijo,suffix,4,3,8,1,1
+915,especialmente,especially,4,5,,,
+916,higo,fig,4,3,1,1,1
+917,tener miedo,afraid,4,4,6,,
+918,enorme,huge,4,4,2,,
+919,hermana,sister,4,1,1,2,1
+920,acero,steel,4,3,4,1,1
+921,dólar,dollar,4,3,7,1,1
+922,adelante,forward,4,4,5,,
+923,similar,similar,4,4,1,,
+924,guiar,guide,4,2,2,,
+925,experiencia,experience,4,3,7,2,1
+926,puntuación,score,4,3,9,2,1
+927,manzana,apple,4,3,1,2,1
+928,comprado,bought,4,2,1,,
+929,llevado,led,4,2,1,,
+930,tirar,to throw,4,2,1,,
+931,abrigo,coat,4,3,2,1,1
+932,masa,mass,4,3,8,2,1
+933,tarjeta,card,4,3,9,2,1
+934,banda,band,4,3,9,2,1
+935,cuerda,rope,4,3,6,2,1
+936,deslizarse,to slide,4,2,2,,
+937,ganar,win,4,2,1,,
+938,soñar,to dream,4,2,2,,
+939,noche,evening,4,3,10,2,1
+940,condición,condition,4,3,9,2,1
+941,alimentar,to feed,4,2,1,,
+942,herramienta,tool,4,3,6,2,1
+943,total,total,4,4,8,,
+944,básico,basic,4,4,8,,
+945,olor,smell,4,3,2,1,1
+946,valle,valley,4,3,4,1,1
+947,ni,nor,4,6,,,
+948,doble,double,4,4,4,,
+949,asiento,seat,4,3,6,1,1
+950,continuar,continue,4,2,1,,
+951,bloque,block,4,3,2,1,1
+952,tabla,chart,4,3,8,2,1
+953,sombrero,hat,4,3,2,1,1
+954,vender,sell,4,2,1,,
+955,éxito,success,4,3,7,1,1
+956,empresa,company,4,3,7,2,1
+957,restar,subtract,4,2,1,,
+958,evento,event,4,3,9,1,1
+959,particular,particular,4,4,8,,
+960,acuerdo,deal,4,3,7,1,1
+961,nadar,swim,4,2,1,,
+962,plazo,term(time),4,3,10,1,1
+963,opuesta,opposite,4,4,8,,
+964,esposa,wife,4,1,1,2,1
+965,zapato,shoe,4,3,2,1,1
+966,hombro,shoulder,4,3,2,1,1
+967,propagar,to spread,4,2,1,,
+968,organizar,arrange,4,2,1,,
+969,campamento,camp,4,3,3,1,1
+970,inventar,invent,4,2,1,,
+971,algodón,cotton,4,3,2,1,1
+972,nacido,born,4,2,1,,
+973,determinar,determine,4,2,1,,
+974,el cuarto,quater,4,4,4,,
+975,nueve,nine,4,4,4,,
+976,camión,truck,4,3,5,1,1
+977,ruido,noise,4,3,11,1,1
+978,nivel,level,4,3,8,1,1
+979,oportunidad,chance,4,3,9,2,1
+980,reunir,gather,4,2,1,,
+981,tienda,shop,4,3,3,2,1
+982,estirar,to stretch,4,2,1,,
+983,lanzar,to launch,4,2,1,,
+984,brillo,shine,4,3,4,1,1
+985,propiedad,property,4,3,6,2,1
+986,columna,column,4,3,7,2,1
+987,molécula,molecule,4,3,8,2,1
+988,seleccionar,select,4,2,1,,
+989,mal,wrong,4,4,8,,
+990,gris,gray,4,4,2,,
+991,repitir,to repeat,4,2,1,,
+992,exigir,to demand,4,2,1,,
+993,amplio,broad,4,4,2,,
+994,preparar,prepare,4,2,1,,
+995,sal,salt,4,3,1,2,1
+996,nariz,nose,4,3,2,2,1
+997,plural,plural,4,3,8,1,1
+998,enojado,angry,4,4,6,,
+999,reclamación,claim,4,3,7,2,1
+1000,continente,continent,4,3,5,1,1
+1001,Cómo estás?,How are you?,4,7,2,,
+1002,Me llamo/Mi nombre es,My name is,4,7,6,,
+1003,Estoy bien.,I am fine.,4,7,2,,
+1004,Hola,Hello,4,7,1,,
+1005,Mucho gusto.,Nice to meet you.,4,7,3,,
+1006,abecedario,alphabet,4,3,8,1,1
+1007,Me trae la cuenta por favor?,Can I get the bill please?,4,7,5,,
+1008,Me gustaría,I would like,4,7,3,,
+1009,Gracias.,Thanks.,4,7,3,,
+1010,mesero,waiter,4,3,7,1,1
+1011,Cómo te llamas?,What is your name?,4,7,5,,
+1012,Buenos días!,Good morning!,4,7,1,,
+1013,Buenas tardes!,Good afternoon!,4,7,1,,
+1014,Buenas noches!,Good evening!,4,7,8,,
+1015,Bienvenido!,Welcome!,4,7,1,,
+1016,Cómo te va?/Qué tal?,How is it going?,4,7,2,,
+1017,Cómo te ha ido?,How’ve you been?,4,7,2,,
+1018,Y tú?,And you?,4,7,2,,
+1019,Así así./Más o menos.,So so.,4,7,2,,
+1020,Qué pasa?,What’s happening?,4,7,2,,
+1021,Qué haces?,What are you doing?,4,7,2,,
+1022,De nada!,You’re welcome!,4,7,3,,
+1023,Perdone!,Excuse me!,4,7,3,,
+1024,Disculpe!,Sorry!,4,7,3,,
+1025,Lo siento!,I am sorry!,4,7,3,,
+1026,Puedo ayudarle?,Can I help you?,4,7,4,,
+1027,Puede ayurdarme?,Can you help me?,4,7,4,,
+1028,No hay problema.,No problem.,4,7,4,,
+1029,Puede repetirlo?,Can you say that again?,4,7,4,,
+1030,No entiendo!,I don’t understand!,4,7,4,,
+1031,No (lo) sé.,I don’t know.,4,7,4,,
+1032,No tengo ni idea.,I have no idea.,4,7,4,,
+1033,No hablo español.,I don't speak Spanish.,4,7,4,,
+1034,Estoy perdido.,I am lost.,4,7,4,,
+1035,Qué significa …?,What does … mean?,4,7,4,,
+1036,Mi español es malo,My Spanish is bad,4,7,4,,
+1037,Puedes hablar más despacio?,Can you speak more slowly?,4,7,4,,
+1038,Qué hora es?,What time is it?,4,7,5,,
+1039,Dónde puedo comprar…?,Where can I buy…?,4,7,5,,
+1040,Cuántos años tienes?,How old are you?,4,7,5,,
+1041,De dónde viene?,Where are you from?,4,7,5,,
+1042,Dónde vives?,Where do you live?,4,7,5,,
+1043,Tienes hermanos o hermanas?,Do you have brothers or sisters?,4,7,5,,
+1044,Cuánto cuesta eso?,How much is that?,4,7,5,,
+1045,Qué es esto?,What is this?,4,7,5,,
+1046,Entiende?/Comprende?,Do you understand?,4,7,5,,
+1047,Hablas inglés?,Do you speak English?,4,7,5,,
+1048,Dónde está ...?,Where is ...?,4,7,5,,
+1049,(Yo) tengo … años,I am … years old.,4,7,6,,
+1050,(Yo) soy de…,I come from …,4,7,6,,
+1051,Tal vez.,Maybe.,4,7,6,,
+1052,A veces.,Sometimes.,4,7,6,,
+1053,Claro.,Of course.,4,7,6,,
+1054,Diviértete!,Have fun!,4,7,7,,
+1055,Buen viaje!,Have a good trip!,4,7,7,,
+1056,Buen provecho!,Bon appetit!,4,7,7,,
+1057,Muy bien!,Well done!,4,7,7,,
+1058,Cuídate!,Take care!,4,7,7,,
+1059,Felicitaciones!,Congratulations!,4,7,7,,
+1060,Feliz Cumpleaños!,Happy birthday!,4,7,7,,
+1061,Salud!,Cheers!Bless you!,4,7,7,,
+1062,Adiós!,Good bye!,4,7,8,,
+1063,Hasta luego!,See you later!,4,7,8,,
+1064,Hasta pronto!,See you soon!,4,7,8,,
+1065,Hasta mañana!,See you tomorrow!,4,7,8,,
+1066,Nos vemos!,See you!,4,7,8,,
+1067,Como siempre.,As always.,4,7,6,,
+1068,cansado,tired,4,4,6,,
+1069,enfermo,sick,4,4,6,,
+1070,Todo bien.,All good.,4,7,6,,
+1071,Te amo.,I love you.,4,7,7,,
+1072,Buena suerte!,Good luck!,4,7,7,,
+1073,Con mucho amor!,Lots of love!,4,7,7,,
+1074,Los mejores deseos para…,Best wishes to...,4,7,7,,
+1075,Feliz Navidad!,Merry Christmas!,4,7,7,,
+1076,Feliz Año Nuevo!,Happy New Year!,4,7,7,,
+1077,No se preocupe!,No worries!,4,7,6,,
+1078,Quisiera …,I would like...,4,7,3,,
+1079,allí,there,4,4,5,,
+1080,billete,ticket,4,3,9,2,1
+1081,Quieres algo para comer/beber?,Do you want something to eat/drink?,4,7,5,,
+1082,entrada,appetizer,4,3,1,2,1
+1083,plato principal,main dish,4,3,1,1,1
+1084,postre,dessert,4,3,1,1,1
+1085,sopa,soup,4,3,1,2,1
+1086,ensalada,salad,4,3,1,2,1
+1087,vino (tinto),wine,4,3,1,1,1
+1088,cerveza,beer,4,3,1,2,1
+1089,café,coffee,4,3,1,1,1
+1090,Qué me recomienda?,What do you recommend?,4,7,5,,
+1091,Soy vegetariano/a.,I'm a vegetarian.,4,7,6,,
+1092,nuez,nut,4,3,1,2,1
+1093,A qué hora?,What time?,4,7,5,,
+1094,cuánto?,how long?,4,7,5,,
+1095,Cómo se dice ... en español?,How do you say ... in Spanish?,4,7,5,,

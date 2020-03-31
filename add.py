@@ -1,40 +1,24 @@
 import csv
-import pandas as pd
-import sys
-import os
 from utils import *
-
-
-
+from random import randint
 
 def main():
     vocabs = []
-
-    if len(sys.argv) == 2:
-        start = int(sys.argv[1])
-    else:
-        if not os.path.isfile(csv_filename):
-            with open(csv_filename, 'w') as csvfile:
-                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                writer.writeheader()
-            start = 0
-        else:
-            with open(csv_filename, 'r') as csvfile:
-                reader = csv.reader(csvfile)
-                start = sum(1 for row in reader) - 1
-    print("Starting at %d" % start)
-    with open('1000_words.txt', 'r') as txtfile:
-        txtfilelines =txtfile.readlines()
-        for txtfileline in txtfilelines:
-            words = txtfileline.split()
-            vocabs.append(words)
-
-
+    with open(csv_filename) as csvfile:
+        words = csv.DictReader(csvfile)
+        for row in words:
+            vocabs.append(row)
+    
+    index = len(vocabs) + 1
     try:
-        for index, vocab in enumerate(vocabs[start:]):
-            row = {fieldnames[0]: vocab[0], fieldnames[1]: vocab[1], fieldnames[2]: vocab[2], 
+        while True:
+            print("Spanish")
+            spanish = raw_input()
+            print("English")
+            english = raw_input()
+            row = {fieldnames[0]: index, fieldnames[1]: spanish, fieldnames[2]: english, 
                 fieldnames[3]: 3, fieldnames[5]: None, fieldnames[6]: None, fieldnames[7]: None}
-            ask_vocab(row)
+            print("Vocab #%d" % (index))
 
             print_question("Category: ", categories[:,0])
             category = check_input(len(categories[:,0]))
@@ -52,9 +36,10 @@ def main():
             with open(csv_filename, 'a') as csvfile:
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 writer.writerow(row)
+            index += 1
 
     except KeyboardInterrupt:
-        print('Finish!')
+        return
 
 if __name__ == "__main__":
     main()
